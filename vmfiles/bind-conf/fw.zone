@@ -1,0 +1,6 @@
+$ORIGIN .
+$TTL 1
+. SOA ns staremaster (1970010100 1 300 300 0)
+  NS ns.
+ns A 1.0.0.0
+one-four A 1.2.3.4

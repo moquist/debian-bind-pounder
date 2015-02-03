@@ -1,0 +1,5 @@
+$ORIGIN in-addr.arpa.
+$TTL 1
+in-addr.arpa. SOA ns staremaster (1970010100 1 300 300 0)
+              NS ns.
+4.3.2.1 PTR one-four.
